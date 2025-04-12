@@ -17,7 +17,7 @@ This is a simple web-based calculator built using HTML, CSS, and JavaScript. It 
 ## How to Use
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/basic-calculator.git
+   git clone https://github.com/prakritiupadhyay1/basic-calculator.git
    ```
 2. Navigate to the project folder:
    ```bash
